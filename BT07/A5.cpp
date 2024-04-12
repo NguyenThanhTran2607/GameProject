@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 char* weird_string() { 
-   char c[] = ì123345î;
+   char c[] = ‚Äú123345‚Äù;
    return c; 
 }
 int main(){
@@ -10,5 +10,5 @@ int main(){
 	return 0;
 }
 //nhan xet ve output : viec truy cap den mot bien cuc bo sau khi ham ket thuc
-se dan den loi khong xac dinh, ket qua khi chay chuong trinh co the se khong 
-doan truoc duoc va co the dan den cac loi khong xac dinh
+//se dan den loi khong xac dinh, ket qua khi chay chuong trinh co the se khong 
+//doan truoc duoc va co the dan den cac loi khong xac dinh
