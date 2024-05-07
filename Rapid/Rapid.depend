@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1714792478 source:d:\cpp_learn\codeblock\rapid\main.cpp
+	<iostream>
+	"game.h"
+
+1715090212 d:\cpp_learn\codeblock\rapid\game.h
+	"SDL_ttf.h"
+	"graphics.h"
+	"block.h"
+	"ball.h"
+	"heart.h"
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
+1715065335 d:\cpp_learn\codeblock\rapid\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<ctime>
+	<SDL_ttf.h>
+
+1715088744 source:d:\cpp_learn\codeblock\rapid\game.cpp
+	"game.h"
+
+1715089634 source:d:\cpp_learn\codeblock\rapid\graphics.cpp
+	"graphics.h"
+	<SDL.h>
+	<iostream>
+	<SDL_image.h>
+	<bits/stdc++.h>
+	<SDL_mixer.h>
+
+1714917336 source:d:\cpp_learn\codeblock\rapid\block.cpp
+	"block.h"
+
+1714795121 d:\cpp_learn\codeblock\rapid\block.h
+	<iostream>
+	<SDL.h>
+
+1714879955 d:\cpp_learn\codeblock\rapid\ball.h
+	<iostream>
+	<SDL.h>
+
+1714981624 source:d:\cpp_learn\codeblock\rapid\ball.cpp
+	"ball.h"
+
+1715002344 d:\cpp_learn\codeblock\rapid\heart.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"block.h"
+
+1715004230 source:d:\cpp_learn\codeblock\rapid\heart.cpp
+	"heart.h"
+
