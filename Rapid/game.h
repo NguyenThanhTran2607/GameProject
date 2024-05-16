@@ -58,7 +58,6 @@ struct game
 
     int xm, ym;
 
-    int count_die = 0;
 
     int health = 1;
     const int MAX_HEALTH = 5;

@@ -122,12 +122,6 @@ void game::draw(){
             if(die_heart == false){
                 _ball.ballup();
             }
-            count_die++;
-            if (count_die % 50 == 0) {
-				_ball.x = _block2[b].blockRect.x + 30;
-				_ball.y = _block2[b].blockRect.y - 100;
-				health--;
-			}
             die = false;
             _move = true;
 		}
